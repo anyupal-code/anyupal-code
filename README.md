@@ -27,8 +27,8 @@
 * [Python Advanced](https://github.com/anyupal-code/python-advanced) — продвинутый курс Python: типизация, асинхронность, тесты, FastAPI и SQLAlchemy.
 
 ### C++
-* [C++ Basics](https://github.com/anyupal-code/cpp-basics) — курс C++ для начинающих (22 урока).
-* [C++ University](https://github.com/anyupal-code/cpp-university) — университетский курс по C++ (28 уроков).
+* [C++ Basics](https://github.com/anyupal-code/cpp-basics) — курс C++ для начинающих.
+* [C++ University](https://github.com/anyupal-code/cpp-university) — университетский курс по C++.
 * [C++ OOP](https://github.com/anyupal-code/cpp-oop) — учебный курс по ООП в C++ с мини-проектом.
 * [C++ Algorithms](https://github.com/anyupal-code/cpp-algorithms) — решения 15 учебных задач по C++23.
 * [C++ Labs](https://github.com/anyupal-code/cpp-labs) — учебные лабораторные работы.
@@ -37,7 +37,7 @@
 * [Go University](https://github.com/anyupal-code/go-university) — курс по Golang: от основ до горутин и тестов.
 
 ### Pascal
-* [Pascal Basics](https://github.com/anyupal-code/pascal-basics) — основы программирования на Pascal (10 уроков).
+* [Pascal Basics](https://github.com/anyupal-code/pascal-basics) — основы программирования на Pascal.
 * [Pascal Advanced](https://github.com/anyupal-code/pascal-advanced) — продвинутый курс Pascal: ООП, коллекции, алгоритмы.
 
 ### DevOps
