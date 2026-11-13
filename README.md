@@ -3,7 +3,7 @@
 Преподаватель и профессиональный разработчик.
 
 Специализация:
-- языки Java, Python, C++, Go, Pascal;
+- языки, в том числе, Java, Python, C++, Go, Pascal;
 - инфраструктура и DevOps (Linux, Docker, CI/CD, Kubernetes).
 
 ## Направления
