@@ -14,6 +14,8 @@
 
 ## Авторские учебные курсы
 
+**Базовое освоение языка, системная подготовка в вузах и профессиональная промышленная разработка.**
+
 ### Java
 * [Java Basics Course](https://github.com/anyupal-code/java-basics-course) — основы языка Java для начинающих.
 * [Java Backend Course](https://github.com/anyupal-code/java-backend-course) — бэкенд-разработка на Spring Boot, работа с БД и Docker.
